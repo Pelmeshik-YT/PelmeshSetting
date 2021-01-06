@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Pelmeshik-YT/PelmeshSetting
+build-by-default: true
+branches:
+- master
+projects:
+  PelmeshSetting:
+    path: ""
+...
