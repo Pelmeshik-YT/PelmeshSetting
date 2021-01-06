@@ -1,0 +1,23 @@
+messages:
+   join: '&6Ты зашёл на сервер ThePrimer!'
+   enable: true
+help:
+   servername: '&6Сервер&f - &aThePrimer'
+   vk: '&bГруппа сервера в вк&f: vk.com/theprimer'
+   dc: '&dГруппа сервера в дискорд&f:  discord.gg'
+   cmdreg: '&bРегистрация&f-&d/register <password> <password>'
+   cmdlog: '&bАвторизация&f-&d/login <password>'
+   cmdspawn: '&cТелепорт на спавн&f-&d/spawn'
+   menu: '&aОткрытие меню&f-&d/menu'
+   info: '&cНадеюсь вам понравится!'
+setting:
+   noChat: true # отключает чат
+   noLeavesDecay: true # запрет листвы
+   noDamage: true # запрет урона
+   noHunger: true # запрет голода
+   noExplosion: true # запрет взрывов
+   noFire: true # запрет распространения огня
+   noWeather: true # запрет погоды
+   noWheat: true # запрет топтания пшеницы
+   noMessages: true # отключает сообщения при входе/выходе/кике/смерти
+   hidePlayers: true # отключает видимость всех игроков

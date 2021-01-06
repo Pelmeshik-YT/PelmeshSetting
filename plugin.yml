@@ -1,0 +1,15 @@
+name: PelmeshSetting
+main: pelmeshclass.pelmeshsetting
+version: 1.0
+commands:
+  pinfo:
+    description: Info about player
+    usage: /pinfo <player>
+  psreload:
+    description: Reload config
+    usage: /psreload
+  help:
+    description: Help server
+    usage: /help
+  
+  
